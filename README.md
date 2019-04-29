@@ -6,3 +6,6 @@ ___
 ### Module 1
 #### [Environment and concepts](https://github.com/vitorgiovane/rocketseat-bootcamp-environment-and-concepts)
 #### [Challenge 01](https://github.com/vitorgiovane/rocketseat-bootcamp-challenge-01)
+
+### Module 2
+#### [GoBarber APP](https://github.com/vitorgiovane/rocketseat-bootcamp-gobarber)
