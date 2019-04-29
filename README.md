@@ -1,5 +1,5 @@
 # rocketseat-bootcamp
-![wallpaper-m1](https://user-images.githubusercontent.com/5404361/56857394-60d7ee00-6943-11e9-9f69-f314d2b7ef94.png)
+![wallpaper-m2](https://user-images.githubusercontent.com/5404361/56930128-1a54d180-6ab2-11e9-9fb6-6589938b2daf.png)
 ___
 ## Index of my trajectory in Rocketseat Bootcamp
 
