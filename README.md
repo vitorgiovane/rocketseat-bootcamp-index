@@ -7,7 +7,7 @@
 #### [Environment and tips](https://github.com/vitorgiovane/rocketseat-bootcamp-environment-and-tips)
 
 ### Step 2 - Dominando Node.js!
-#### [Environment and concepts](https://github.com/vitorgiovane/rocketseat-bootcamp-module1)
+#### [Environment and concepts](https://github.com/vitorgiovane/rocketseat-bootcamp-module1-environment-and-concepts)
 #### [Challenge 1: NodeJS concepts](https://github.com/vitorgiovane/rocketseat-bootcamp-challenge-01)
 #### [Old challenge 1: NodeJS concepts](https://github.com/vitorgiovane/rocketseat-bootcamp-node-challenge-01)
 #### [GoBarber APP](https://github.com/vitorgiovane/rocketseat-bootcamp-gobarber)
