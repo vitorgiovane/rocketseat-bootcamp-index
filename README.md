@@ -4,7 +4,7 @@
 ## Index of my trajectory in Rocketseat Bootcamp
 
 ### Step 1 - Ambiente e dicas
-#### [Environment and concepts](https://github.com/vitorgiovane/rocketseat-bootcamp-environment-and-concepts)
+#### [Environment and tips](https://github.com/vitorgiovane/rocketseat-bootcamp-environment-and-tips)
 
 ### Step 2 - Dominando Node.js!
 #### [Environment and concepts](https://github.com/vitorgiovane/rocketseat-bootcamp-module1)
